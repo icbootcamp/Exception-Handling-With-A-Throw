@@ -10,6 +10,7 @@ namespace Exception_Handling_With_A_Throw
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi World");
             Temperature temp = new Temperature();
             try
             {
