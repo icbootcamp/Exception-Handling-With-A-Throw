@@ -14,6 +14,7 @@ namespace Exception_Handling_With_A_Throw
             try
             {
                 temp.showTemp();
+
             }
             catch (TempIsZeroException e)
             {
